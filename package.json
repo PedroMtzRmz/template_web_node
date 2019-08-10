@@ -1,0 +1,26 @@
+{
+  "name": "template-node",
+  "version": "1.0.0",
+  "description": "Plantilla para crear aplicaciones de servidor con nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMtzRmz/template_web_node.git"
+  },
+  "author": "PedroMtzRmz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroMtzRmz/template_web_node/issues"
+  },
+  "homepage": "https://github.com/PedroMtzRmz/template_web_node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "mssql": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}

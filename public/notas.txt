@@ -1,0 +1,1 @@
+en public se coloca css, js e img
